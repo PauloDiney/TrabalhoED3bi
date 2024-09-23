@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rAgK/M1ETm/466F2MVcWwmOdfWdsCq8DowCPNzMcpUnS70N2FJZHllptkdAPowYBTeKP6JDgUlt/fvTdSebPuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martins\\Documents\\Faculdade\\Estrutura de Dados\\Pilha\\Pilha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martins\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Martins\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Martins\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Martins\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
